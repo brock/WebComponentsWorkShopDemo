@@ -1,0 +1,23 @@
+{
+  "name": "webcomponents-workshop-demo",
+  "version": "1.0.0",
+  "description": "Run a local server to preview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./node_modules/live-server/live-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcravens/WebComponentsWorkShopDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wcravens/WebComponentsWorkShopDemo/issues"
+  },
+  "homepage": "https://github.com/wcravens/WebComponentsWorkShopDemo#readme",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
